@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
 
-<img align="right" alt="GIF" height="160px" "style="margin-left: 40px;" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" style="margin-left: 40px;" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 ## I'm a Full-Stack Developer passionate about building modern web applications
 
