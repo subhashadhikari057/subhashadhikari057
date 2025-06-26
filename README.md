@@ -1,13 +1,17 @@
 ### Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
 
-<img align="right" alt="GIF" height="160px" style="margin-left: 40px;" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+about+AI+%7C+SaaS;Always+learning+new+things;Building+real-world+projects&center=true&width=500&height=45" />
 
 
-## I'm a Full-Stack Developer passionate about building modern web applications
+## Full-Stack Developer | Code. Create. Optimize.
 
-- 👨‍💻 I’m currently working on an Academic Management System and learning Data Structures & Algorithms.
-- 📚 Learning everything about Frontend, Backend, and System Design.
-- 💪🏼 Future Goals: Learn more technologies related to AI and SaaS development.
+👨‍💻 Building an Academic Management System & mastering DSA
+
+📚 Exploring Frontend, Backend & System Design
+
+🚀 Aiming to dive deeper into AI & SaaS technologies
+
+
 
 ---
 
