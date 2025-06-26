@@ -3,7 +3,8 @@
 <img align="right" alt="GIF" height="160px" style="margin-left: 40px;" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-## I'm a Full-Stack Developer passionate about building modern web applications
+## 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
+Hi, I’m Subhash — a passionate developer who loves building scalable web apps and solving real-world problems with clean, efficient code. From crafting responsive frontends to designing robust backends, I enjoy working across the full tech stack.
 
 - 👨‍💻 I’m currently working on an Academic Management System and learning Data Structures & Algorithms.
 - 📚 Learning everything about Frontend, Backend, and System Design.
