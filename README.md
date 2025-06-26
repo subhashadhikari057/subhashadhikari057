@@ -1,7 +1,6 @@
-
 ### Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" "style="margin-left: 40px;" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Full-Stack Developer passionate about building modern web applications
 
@@ -35,6 +34,13 @@
 ![Google OAuth](https://img.shields.io/badge/Google%20OAuth-222222?style=flat-square&logo=google)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Services)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-adhikari-045018305/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:subhashadhikari057@gmail.com)
 
 ---
 
