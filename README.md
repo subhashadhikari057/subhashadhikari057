@@ -1,6 +1,9 @@
 # Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+about+AI+%7C+SaaS;Always+learning+new+things;Building+real-world+projects&center=true&width=500&height=45" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Web+Developer+🚀;Passionate+about+AI+%26+SaaS+💡;Lifelong+Learner+📚;Turning+Ideas+into+Real-World+Projects+🔧" alt="Typing SVG" />
+</p>
+
 
 
 ## Full-Stack Developer | Code. Create. Optimize.
