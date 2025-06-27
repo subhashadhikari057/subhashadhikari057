@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
+# Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+about+AI+%7C+SaaS;Always+learning+new+things;Building+real-world+projects&center=true&width=500&height=45" />
 
