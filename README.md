@@ -1,4 +1,9 @@
+<div align="center">
+
 # Hi there 👋 I'm [Subhash!](https://github.com/subhashadhikari057)
+
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Web+Developer+🚀;Passionate+about+AI+%26+SaaS+💡;Lifelong+Learner+📚;Turning+Ideas+into+Real-World+Projects+🔧" alt="Typing SVG" />
