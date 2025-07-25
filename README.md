@@ -36,21 +36,21 @@
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
-![Google OAuth](https://img.shields.io/badge/Google%20OAuth-222222?style=flat-square&logo=google)
-![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Services)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![Git](https://img.shields.io/badge/Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![React](https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat&logo=firebase&logoColor=FFCA28)
+![Spring](https://img.shields.io/badge/Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-222222?style=flat&logo=microsoft-azure&logoColor=0078D4)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-222222?style=flat&logo=google&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-222222?style=flat&logo=amazon-aws&logoColor=FF9900)
+![jQuery](https://img.shields.io/badge/jQuery-222222?style=flat&logo=jquery&logoColor=0769AD)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=flat&logo=typescript&logoColor=007ACC)
+![NestJS](https://img.shields.io/badge/NestJS-222222?style=flat&logo=nestjs&logoColor=E0234E)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-222222?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 ---
 
