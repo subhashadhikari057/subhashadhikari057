@@ -62,13 +62,13 @@
 ---
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabin788&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhashadhikari057&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin788&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhashadhikari057&theme=radical" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin788&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashadhikari057&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 Credit: [subhashadhikari057](https://github.com/subhashadhikari057)
