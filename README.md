@@ -60,6 +60,16 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:subhashadhikari057@gmail.com)
 
 ---
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabin788&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabin788&theme=radical" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabin788&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 Credit: [subhashadhikari057](https://github.com/subhashadhikari057)
 
