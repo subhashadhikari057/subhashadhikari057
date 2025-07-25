@@ -71,6 +71,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhashadhikari057&layout=compact&theme=onedark" alt="Top Languages"/>
 </p>
 
+<h3 align="left">🏆 GitHub Profile Trophy</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhashadhikari057&theme=onedark" alt="GitHub Trophy"/>
+</p>
+
+
 
 
 Credit: [subhashadhikari057](https://github.com/subhashadhikari057)
