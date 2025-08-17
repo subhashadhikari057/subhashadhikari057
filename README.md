@@ -13,7 +13,7 @@
 
 ## Full-Stack Developer | Code. Create. Optimize.
 
-👨‍💻 Building an Academic Management System & mastering DSA
+👨‍💻 Building an School Management System & mastering DSA
 
 📚 Exploring Frontend, Backend & System Design
 
